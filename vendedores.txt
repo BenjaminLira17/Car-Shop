@@ -1,0 +1,6 @@
+Leonardo Retamales,Masculino,21.729.825-3,leo.reta@gmail.com,612159
+Simon Amberg,Masculino,9.080.500-2,simon.amberg@gmail.com,812395
+Agustin Corona,Masculino,22.703.236-K,agustin.ctm@gmail.com,27592
+Tomas Marchant,Masculino,21.274.235-9,tomas.m@gmail.com,1263
+Josefina Mandiola,Femenino,23.904.185-7,jozita@gmail.com,93794
+Gabriel Zapata,Masculino,22.457.225-2,zapa@gmail.com,999
